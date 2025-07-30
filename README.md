@@ -16,6 +16,7 @@ This project presents a sales analysis report for Tech Group using **Power BI**.
 
 To explore the dashboard in PDF format and adapt the design to your own sales dataset:
 
-👉 [Get the Interactive Report (PDF)](link-here)
+👉[View Interactive Dashboard PDF](./TechGroup_Sales_Dashboard.pdf)
+
 
 
